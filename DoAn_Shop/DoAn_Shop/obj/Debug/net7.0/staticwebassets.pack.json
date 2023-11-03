@@ -1,0 +1,413 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DoAn_Shop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DoAn_Shop.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\less\\spinning.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\spinning.less"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\scss\\_spinning.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_spinning.scss"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\fonts\\font-slider.css",
+      "PackagePath": "staticwebassets\\fonts\\font-slider.css"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\images\\Z1.png",
+      "PackagePath": "staticwebassets\\images\\Z1.png"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\images\\close.png",
+      "PackagePath": "staticwebassets\\images\\close.png"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\images\\discover-curved-32px.png",
+      "PackagePath": "staticwebassets\\images\\discover-curved-32px.png"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\images\\galaxy-note-1.jpg",
+      "PackagePath": "staticwebassets\\images\\galaxy-note-1.jpg"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\images\\galaxy-note-2.jpg",
+      "PackagePath": "staticwebassets\\images\\galaxy-note-2.jpg"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\images\\galaxy-note-3.jpg",
+      "PackagePath": "staticwebassets\\images\\galaxy-note-3.jpg"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\images\\galaxy-note-4.jpg",
+      "PackagePath": "staticwebassets\\images\\galaxy-note-4.jpg"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\images\\galaxy-note.jpg",
+      "PackagePath": "staticwebassets\\images\\galaxy-note.jpg"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\images\\galaxy-s4.jpg",
+      "PackagePath": "staticwebassets\\images\\galaxy-s4.jpg"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\images\\iphone.png",
+      "PackagePath": "staticwebassets\\images\\iphone.png"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\loading.gif"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\images\\logofooter.png",
+      "PackagePath": "staticwebassets\\images\\logofooter.png"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\images\\maestro-curved-32px.png",
+      "PackagePath": "staticwebassets\\images\\maestro-curved-32px.png"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\images\\main-banner1-1903x600.jpg",
+      "PackagePath": "staticwebassets\\images\\main-banner1-1903x600.jpg"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\images\\main-banner2-1903x600.jpg",
+      "PackagePath": "staticwebassets\\images\\main-banner2-1903x600.jpg"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\images\\main-banner3-1903x600.jpg",
+      "PackagePath": "staticwebassets\\images\\main-banner3-1903x600.jpg"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\images\\next.png",
+      "PackagePath": "staticwebassets\\images\\next.png"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\images\\paypal-curved-32px.png",
+      "PackagePath": "staticwebassets\\images\\paypal-curved-32px.png"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\images\\prev.png",
+      "PackagePath": "staticwebassets\\images\\prev.png"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\images\\sub-banner1.png",
+      "PackagePath": "staticwebassets\\images\\sub-banner1.png"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\images\\sub-banner2.png",
+      "PackagePath": "staticwebassets\\images\\sub-banner2.png"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\images\\sub-banner3.png",
+      "PackagePath": "staticwebassets\\images\\sub-banner3.png"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\images\\sub-banner4.jpg",
+      "PackagePath": "staticwebassets\\images\\sub-banner4.jpg"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\images\\sub-banner5.png",
+      "PackagePath": "staticwebassets\\images\\sub-banner5.png"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\images\\visa-curved-32px.png",
+      "PackagePath": "staticwebassets\\images\\visa-curved-32px.png"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\js\\html5shiv.js",
+      "PackagePath": "staticwebassets\\js\\html5shiv.js"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\js\\jquery-2.1.1.js",
+      "PackagePath": "staticwebassets\\js\\jquery-2.1.1.js"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\js\\photo-gallery.js",
+      "PackagePath": "staticwebassets\\js\\photo-gallery.js"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\js\\respond.min.js",
+      "PackagePath": "staticwebassets\\js\\respond.min.js"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ky 5\\lap trinh nang cao\\DoAn_Shop\\DoAn_Shop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.DoAn_Shop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.DoAn_Shop.props",
+      "PackagePath": "build\\DoAn_Shop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DoAn_Shop.props",
+      "PackagePath": "buildMultiTargeting\\DoAn_Shop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.DoAn_Shop.props",
+      "PackagePath": "buildTransitive\\DoAn_Shop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
